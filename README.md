@@ -23,6 +23,8 @@ Open sales_query.sql to explore the queries used.
 
 Open sales_dashboard.twbx in Tableau to interact with the dashboard.
 
+![Image](https://github.com/user-attachments/assets/197c5b82-a5ed-4728-9b15-91c226e42ea6)
+
 🔹 Future Improvements
 
 Add predictive analytics for future sales forecasting.
